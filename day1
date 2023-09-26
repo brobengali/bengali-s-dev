@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <title>
+          My personal profile   
+        </title>
+     <h1>
+        About Me
+     </h1>   
+     <p>
+        Hi,everyone my name is Rahul Patra(shortly:bro bengali).
+     </p>
+     <h2>
+        Education
+     </h2>
+     <p>
+     I have done my high schooling from st.xaviers's school doranda
+     </p>
+     <h3>
+        Intrests
+     </h3>
+     <p>
+        I love to do programming.
+     </p>
+    </body>
+</html>
